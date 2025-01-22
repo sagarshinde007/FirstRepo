@@ -1,0 +1,52 @@
+.header-div {
+  background-color: coral;
+  height: 20vh;
+  width: 100%;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+.body-section {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px 0px 5px 0px;
+}
+.section-one {
+  background-color: aqua;
+  width: 20vw;
+  height: 70vh;
+}
+.section-three {
+  background-color: darkorchid;
+  width: 20vw;
+  height: 70vh;
+}
+.section-two {
+  background-color: brown;
+  width: 60vw;
+  height: 70vh;
+  margin: 0px 5px 0px 5px;
+}
+.feed-1 {
+  background-color: chocolate;
+  height: 35%;
+  margin: 8px;
+}
+
+.mid-section {
+  display: flex;
+  margin: 8px;
+}
+
+.feed-2 {
+  width: 50%;
+  background-color: aqua;
+  height: 40vh;
+  margin-right: 8px;
+}
+
+.feed-3 {
+  width: 50%;
+  background-color: aqua;
+  height: 40vh;
+}
